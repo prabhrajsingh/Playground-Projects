@@ -1,0 +1,31 @@
+<template>
+    <!--lightning-card component displays the APIproperty title and contains the other two components-->
+    <lightning-card title="ApiProperty" icon-name="standard:product_consumed">
+        <div class="slds-var-m-around_medium">
+            <!--lightning-input component handles the user input of a number and broadcast value change events-->
+            <lightning-input
+                label="Percentage"
+                type="number"
+                min="0"
+                max="100"
+                value={percentage}
+                onchange={handlePercentageChange}
+            ></lightning-input>
+            <!--chart-bar component renders a bar chart based on its percentage value-->
+            <c-chart-bar
+                class="slds-show slds-is-relative"
+                percentage={percentage}
+            ></c-chart-bar>
+        </div>
+
+        <c-view-source source="lwc/apiProperty" slot="footer">
+            Parent-to-child communication. Pass data to a child component using
+            its public (@api) properties.
+        </c-view-source>
+    </lightning-card>
+</template>
+
+<!--each of these components has its own public API, internal state, and behavior. and each of these components 
+        could have their own unit tests to validate their functionality in isolation of the other components.
+            in fact the <c-api-property> component can assume that the lightning card lighnting input and
+                 chart bar components will perform as expected. -->
