@@ -29,7 +29,7 @@ export default class BoatMap extends LightningElement {
 
   error = undefined;
   mapMarkers = [];
-
+ 
   // Initialize messageContext for Message Service
   @wire(MessageContext)
   messageContext;
