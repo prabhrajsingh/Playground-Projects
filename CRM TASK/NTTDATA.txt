@@ -1,0 +1,55 @@
+NTTDATA
+
+they try to provide understanding and improving customer experience in real time
+
+NTT DATA provides services for all aspects of CRM, from strategy and roadmap, through design and deployment, to ongoing support.
+
+
+they explain why they have developed a proprietary methodology for managing crm.
+Today's C-level executive demands faster results and quicker time to market. 
+We've developed a proprietary methodology for managing Customer Relationship Management 
+	implementations with business value delivered in weeks, not months or years.
+
+then they list out all the solution that the company provides such as 
+- SalesForce.com, 
+- Siebel, and 
+- Microsoft Dynamics.
+
+they also list out the key essentials about these solution and why one would use them:
+
+> strong project management, 
+> high flexibility and 
+> special expertise in large-scale projects, 
+
+based on own assets and specialised methodology.
+
+
+Attracting new customers, retaining existing ones, 
+and improving customer satisfaction requires a synchronisation of all business processes related to 
+	sales, marketing, customer service, interaction centre and social media. 
+
+NTT DATA leverages its deep understanding of business processes, 
+	as well as its rich IT expertise and strategic partnerships with major CRM software vendors,
+	to provide tailored CRM solutions that improve customer interactions and enable growth.
+
+
+they have a domain expertise field.
+the domains are: 
+	- sales
+	- marketing
+	- customer service and full customer experience
+	- crm IT consulting
+
+lastly they provide article regarding NTTData and CRMs all over the world.
+
+
+
+
+
+NTT DATA CRM and Customer Experience Implementation Services Rating - 4.4
+https://www.gartner.com/reviews/market/crmandcustomerexperienceimplementationservicesworldwide/vendor/ntt-data/product/ntt-data-crm-and-customer-experience-implementation-services
+
+
+
+
+https://www.nttdata.com/au/en/services/crm-solutions

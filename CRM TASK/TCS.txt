@@ -1,0 +1,42 @@
+TCS
+
+they provide services for unified communication and contact centers
+
+they try to create a seamless customer experience 
+they first pointed out the challenge with current situation 
+
+	CHALLENGE
+
+	Companies aim to provide excellent customer experience irrespective of 	whether the customer is connecting with the company through Voice call, Website, 	Email, chat, etc.
+
+	This requires integrating isolated CRM and business tools so that all 	customer information is in one place.
+
+	However, most enterprises utilize hundreds of applications that are custom-built, acquired from a third-party, part of a legacy system, or a combination 	thereof. Working in silos leads to inconsistencies in service.
+
+then they explained about what tcs do as a part of there solution.
+tcs services for unified communication and contact centers integrate business components in one system.
+
+ - Customized IVR application development and integration
+ - Reporting and CRM integration
+ - Ticketing tool integration
+ - Business tools (Customer DB, Customer business portal, etc.) integration
+ - Tools development and integration
+ - Multichannel and Social media integration
+
+then listing out the advantages.
+> Integrate hardware, software, and sub systems from multiple vendors
+> Store customer data in a single, unified repository
+> Deliver seamless and omni-channel customer experience through integrated tools
+> Provide customized implementations with scripts and internal tools
+> Improve the system’s productivity
+> Harness data to manage creative outbound campaigns better
+
+
+
+
+TCS CRM and Customer Experience Implementation Services Ratings - 4.4
+https://www.gartner.com/reviews/market/crmandcustomerexperienceimplementationservicesworldwide/vendor/tata-consultancy-services-tcs/product/tcs-crm-and-customer-experience-implementation-services
+
+
+https://www.tcs.com/what-we-do/services/cognitive-business-operations/solution/unified-contact-and-communication-services
+

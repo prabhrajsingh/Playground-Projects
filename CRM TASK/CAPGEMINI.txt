@@ -1,0 +1,41 @@
+CAPGEMINI
+
+they use both ERP & CRM as a business application using microsoft azure which contains hundreds of services 
+
+then they explain power platform what does it do and what does it consist of.
+
+> In the era of digital transformation, we rely on data that is constantly growing. However, they are useless until they are correctly interpreted,
+	the purpose of which is to obtain specific information.
+> Data analysis, application development or automation are now largely a “plot” of the IT department or programmers.
+> An “ordinary” employee, wanting to improve his work or processes in which he participates, most often turns to the department or programmer for help. 
+	In many cases, you are asked to submit the appropriate application, outlining the requirements and goals that you want to achieve.
+	Not only does he have to wait for acceptance, he does not know how long it will take to build the solution. 
+	First of all – it is time consuming – and secondly – it “consumes” the company’s internal resources.
+
+This is where Power Platform appears.
+
+then give a general overview about microsoft power platform.
+
+explains about microsoft flow (under the power automate heading)
+explains 
+	> what power bi is.
+	> what power apps are.
+	> what power virtual agents are.
+
+gave an explaination about how these 4 power apps work together with each other on the platform.
+
+
+provided a link to learn these technologies 
+https://www.capgemini.com/se-en/services/microsoft-dynamics-365/#Our-technology-areas
+where they go deep in explaining these topics such as ERP, CRM, Dynamics and how does capgemini uses them.
+
+
+
+Capgemini CRM and Customer Experience Implementation Services Rating - 4.6
+https://www.gartner.com/reviews/market/crmandcustomerexperienceimplementationservicesworldwide/vendor/capgemini/product/capgemini-crm-and-customer-experience-implementation-services
+
+
+
+
+https://www.capgemini.com/se-en/services/microsoft-dynamics-365/learn-more-about-our-technology-areas/business-applications-erp-crm/
+
